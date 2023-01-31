@@ -6,8 +6,8 @@
 - Javascript
 - jQuery
 ## Images
-![screenshot1](screenshot1.png)
-![screenshot2](screenshot2.png)
+![screenshot1](Quote1.png)
+![screenshot2](Quote2.png)
 ## Test it out
 [Website](https://uebo7.github.io/P1-Quote-generator/)
 ## Future Developments

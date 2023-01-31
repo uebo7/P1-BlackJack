@@ -12,7 +12,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #17d9e7;
+    background-color: blue;
 }
 
 button {
@@ -24,12 +24,14 @@ button {
 
 h1 {
     font-size: 50px;
+    color: yellow;
 }
 
 div {
     font-size: 30px;
     margin: 10px;
     text-align: center;
+    color: yellow;
 }
 
 
